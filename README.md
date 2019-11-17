@@ -21,6 +21,7 @@ The script requires a JSON which includes the user's Last.fm username, and Twitt
     'twitter-api-secret': Twitter Consumer API Secret,
     'twitter-access': Twitter Access API Key,
     'twitter-access-secret': Twitter Access API Secret
+}
 ```
 
 This JSON should be built in the directory of the clone (assuming you're building off a clone of this repository).
